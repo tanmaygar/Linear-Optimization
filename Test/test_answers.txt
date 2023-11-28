@@ -1,0 +1,6 @@
+Test 1: 
+Test 2: 16 (0,4)
+Test 3: 12 (4,0)
+Test 4: 12.368 (1.053, 2.368)
+Test 5: -7 (1.5, 0.5)
+Test 6: all points on line x+2y=6
